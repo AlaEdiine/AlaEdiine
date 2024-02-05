@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack Js web developer From Tunisia 🇹🇳</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=midox4&label=Profile%20views&color=0e75b6&style=flat" alt="midox4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlaEdiine&label=Profile%20views&color=0e75b6&style=flat" alt="AlaEdiine" /> </p>
 
 - 🔭 I’m currently working on **Enterprise resource planning 'Postal ERP '**
 
